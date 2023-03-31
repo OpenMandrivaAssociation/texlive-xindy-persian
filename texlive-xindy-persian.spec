@@ -1,6 +1,6 @@
 Name:		texlive-xindy-persian
 Version:	59013
-Release:	1
+Release:	2
 Summary:	Support for the Persian language in xindy
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xindy-persian
