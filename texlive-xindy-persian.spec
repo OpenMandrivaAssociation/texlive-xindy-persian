@@ -3,7 +3,7 @@ Version:	59013
 Release:	2
 Summary:	Support for the Persian language in xindy
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xindy-persian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xindy-persian
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xindy-persian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xindy-persian.doc.r%{version}.tar.xz
